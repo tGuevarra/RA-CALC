@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\Calc\Calc\bin\Debug\net6.0\Calc.exe
+C:\Users\denis\source\repos\Calc\Calc\bin\Debug\net6.0\Calc.deps.json
+C:\Users\denis\source\repos\Calc\Calc\bin\Debug\net6.0\Calc.runtimeconfig.json
+C:\Users\denis\source\repos\Calc\Calc\bin\Debug\net6.0\Calc.dll
+C:\Users\denis\source\repos\Calc\Calc\bin\Debug\net6.0\Calc.pdb
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfo.cs
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.dll
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\refint\Calc.dll
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.pdb
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\Calc.genruntimeconfig.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\Debug\net6.0\ref\Calc.dll
